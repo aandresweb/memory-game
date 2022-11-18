@@ -1,6 +1,6 @@
 # URL
 
-Proyecto: [https://memory-game.aandresweb.com/](https://memory-game.aandresweb.com/)
+Proyecto: [https://memory-game.aandresweb.com/](https://memory-game.aandresweb.com/){:target="_blank"}
 
 # Getting Started with Create React App
 
