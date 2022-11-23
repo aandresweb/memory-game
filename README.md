@@ -1,6 +1,6 @@
 # URL
 
-Proyecto: [https://memory-game.aandresweb.com/](https://memory-game.aandresweb.com/)
+Demo: [https://memory-game.aandresweb.com/](https://memory-game.aandresweb.com/)
 
 # Getting Started with Create React App
 
